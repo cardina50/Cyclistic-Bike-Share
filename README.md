@@ -1,2 +1,2 @@
 # Cyclistic-Bike-Share
-A cleaned dataset from March 2022- February, 2023 for the Google Data Analytics Capstone Project. 
+SQL Documentation for the Cyclistic Bike Share Case Study: A Google Data Analytics Capstone Project. 
